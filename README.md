@@ -1,7 +1,3 @@
-# ipaperclip.icu-file
+# ipaperclip.icu-static-image
 
-这里放了一些文件
-
-## 感谢
-
-[jsDelivr](https://www.jsdelivr.com/)
+这里存放了一些 ipaperclip.icu 上的静态图片
