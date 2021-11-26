@@ -1,7 +1,3 @@
-# ipaperclip.icu-file
+# ipaperclip.icu-static
 
-嫖 [jsDelivr](https://www.jsdelivr.com/)
-
-## 感谢
-
-[jsDelivr](https://www.jsdelivr.com/)
+这里存放了一些 ipaperclip.icu 上的静态文件
