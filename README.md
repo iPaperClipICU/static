@@ -1,6 +1,6 @@
 # ipaperclip.icu-file
 
-嫖 [jsDelivr](https://www.jsdelivr.com/)
+这里放了一些图片
 
 ## 感谢
 
